@@ -20,7 +20,7 @@ it requires an or gate, with 2 AND gates coming from it, AND-A being (A AND NOT 
 
 That is all the gates we need
 
-## making the adder
+## Making the adder
 first of all we need to make a 4-Bit Adder, which is comprised of 4 Full-Adders which are in turn comprised of 2 Half adders each.
 
 ### Half adder
@@ -55,7 +55,7 @@ Now for the final composition of the 4-Bit ALU chip.
 our ALU has 4 bit addition as well as 4 bit subtraction with negative number theory and 3 conditionals.
 our conditionals are 3 outputs that light up if our number is 0 or if our number is negative, as well as a carry.
 
-### building the ALU 
+### Building the ALU 
 building it is simple, 
 simply add the 8 total inputs (Nibble-A and Nibble-B) and input 9 (a subtract button).
 Place a 4 bit adder first then the following.
