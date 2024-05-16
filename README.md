@@ -1,5 +1,5 @@
 # 4-Bit-ALU
-Custom 4-Bit ALU
+Custom 4-Bit ALU (logism circuit included)
 
 
 ## Making the required gates
