@@ -39,7 +39,7 @@ SUM is the result of SUM-B
 ![image](https://github.com/gbentham06/4-Bit-ALU/assets/169713724/79e7765c-5a60-4da2-933f-ae96e30c820c)
 
 ### 4-bit adder
-For ease of understanding we will be using the FUll adder chip from now on to make our circuitry Neater and more readable.
+For ease of understanding we will be using the Full adder chip from now on to make our circuitry Neater and more readable.
 We will be compiling the 4 Bit adder into a module as well so we can more easily deal with added complexity.
 
 the 4 bit adder is very simple, it works by having 4 full adders, corresponding to Adder-A being for A0 and B0 inputs, Adder-B corresponding to A1 and B1 as inputs,
